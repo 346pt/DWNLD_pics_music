@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DWNLD_pics_music", "DWNLD_pics_music\DWNLD_pics_music.csproj", "{C645C3BF-8B40-4C3D-8545-70C1880324AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C645C3BF-8B40-4C3D-8545-70C1880324AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C645C3BF-8B40-4C3D-8545-70C1880324AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C645C3BF-8B40-4C3D-8545-70C1880324AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C645C3BF-8B40-4C3D-8545-70C1880324AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {838265FD-9CFA-4731-93DF-21B4D2CE4878}
+	EndGlobalSection
+EndGlobal
